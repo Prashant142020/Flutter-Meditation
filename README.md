@@ -1,5 +1,11 @@
 # meditation
 
+App UI UX Design Convent Into Flutter Code | Flutter 3.16
+
+This project is a starting point for a Flutter application.
+
+UI UX App Design by: [Afsar](https://www.uistore.design/items/meditation-free-app-ui-kit-for-figma/)
+
 A new Flutter project.
 
 ## Getting Started
